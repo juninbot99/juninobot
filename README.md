@@ -1,4 +1,4 @@
-### Oii sou o Junin
+### Oii sou o Junin siga as instruções abaixo para instalar o bot
 
 
 
