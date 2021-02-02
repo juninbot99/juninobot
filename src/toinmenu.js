@@ -1,4 +1,4 @@
-const juninbotmenu = (prefix, pushname) => {
+const toinmenu = (prefix, pushname) => {
     return `◪ *Comandos Junin*
     │
     ├─ ❏ ${prefix}setprefix
@@ -9,4 +9,4 @@ const juninbotmenu = (prefix, pushname) => {
 
 }
 
-exports.juninmenu = juninmenu
+exports.toinmenu = toinmenu
