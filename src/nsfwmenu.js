@@ -1,5 +1,5 @@
 const nsfwmenu = (prefix, pushname) => {
-    return `Eai resumindo aqui é o menu dos porno basicamente kkkkk e isso amigão boa punha ai
+    return `Eai meu consagrado td na paz resumindo aqui é o menu dos porno kkkkk e isso amigão boa punha ai
 
     ◪ *NSFW*
   │
