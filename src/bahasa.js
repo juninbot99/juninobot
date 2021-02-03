@@ -1,7 +1,7 @@
 const bahasa = (prefix, sender) => {
-	return `*List kode Bahasa*
+	return `*Linguagens do bot*
 
-	*Code       Bahasa*
+	*Código       língua*
     sq        Albanian
     ar        Arabic
     hy        Armenian
