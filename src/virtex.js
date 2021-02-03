@@ -1,5 +1,5 @@
 const virtex = (prefix, pushname) => {
-	return `_*EO BOT JUNIN GOSTOSA DESTRAVADO SEU POCKET*_
+	return `_*EO BOT JUNIN GOSTOSA DESTRAVADO SEU POCKET😎👍*_
 
 ~*DESTRAVA MOSNTRAR BY DAVIZINMAKER*~
 🦅͜͡꙰☠͜͡꙰⃣͜͡DAVIZINMAKER ͜͡꙰⃣͜͡꙰🦅͜͡꙰☠_~
